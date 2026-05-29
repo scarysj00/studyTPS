@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/Level/TPSMap.umap",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/Blueprint/BP_TPSGameMode.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/Blueprint/BP_TPSPlayer.uasset",
+				"C:/Users/Administrator/Desktop/GameCapstoneDesign/UEClass/studyTPS/TPS/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+			]
+		}
+	]
+}
