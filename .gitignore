@@ -362,9 +362,9 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-Unreal/gameTPS/Binaries
-Unreal/gameTPS/Intermediate
-Unreal/gameTPS/Saved
-Unreal/gameTPS/Content/Developers
-Unreal/gameTPS/*.sln
-Unreal/gameTPS/.vsconfig
+Unreal/TPS/Binaries
+Unreal/TPS/Intermediate
+Unreal/TPS/Saved
+Unreal/TPS/Content/Developers
+Unreal/TPS/*.sln
+Unreal/TPS/.vsconfig
